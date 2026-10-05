@@ -1,4 +1,4 @@
-# 🛡️ codex破甲  破甲 GPT
+# 🛡️ Codex破甲|CC Switch接入教程
 
 ### ⚡ 让 GPT API 接入，成为创造的起点
 
