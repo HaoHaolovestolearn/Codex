@@ -39,7 +39,7 @@ NB破甲面向开发者与技术爱好者，提供 GPT API 接入入口。从获
 
 复杂技术任务需要资料、测试和反复验证。NB破甲提供模型接入与使用指引；具体结果取决于所用模型、任务条件和你的验证过程。
 
-## 🖥️ 本次桌面演示版有什么？
+## 🖥️ 有什么？
 
 NB破甲的桌面体验现在可以下载预览。打开一个 Windows 窗口，就能浏览：
 
@@ -49,7 +49,9 @@ NB破甲的桌面体验现在可以下载预览。打开一个 Windows 窗口，
 - 📝 接入、开通指引及本地界面设置
 - ✈️ 前往 NB破甲 TG 群的快捷入口
 
-> ⚠️ **版本说明：当前 EXE 仅供界面演示。** 它不连接真实 API，不生成模型回复，也不会上传工作台输入。点击发送会显示正式服务的开通指引。真实调用请通过 NB破甲平台按说明开通和配置。
+<img width="1280" height="821" alt="image" src="https://github.com/user-attachments/assets/ddf8473a-597f-4e91-bee2-a8bef25f0779" />
+<img width="1280" height="821" alt="image" src="https://github.com/user-attachments/assets/73dd4634-e955-4d56-8ee3-38d31414d769" />
+
 
 ## 🏁 如何开始？
 
